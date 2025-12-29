@@ -7,3 +7,4 @@ end
 
 enable("lua_ls")
 enable("stylua")
+enable("rust_analyzer")
